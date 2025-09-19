@@ -2,7 +2,7 @@
 
 # exam timer
 
-live demo: [https://sardaukarrr.github.io/timerforexams/](https://sardaukarrr.github.io/timerforexams/)
+live demo: <a href="https://sardaukarrr.github.io/timerforexams/" target="_blank">https://sardaukarrr.github.io/timerforexams/</a>
 
 a simple web-based timer to help you track how much time you spend on each question during practice exams. it helps you manage your time better and see where you are fast or slow.
 
